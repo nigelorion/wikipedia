@@ -7,10 +7,11 @@
 }
 
 .header-box {
+    padding-top: 20px;
     padding: 18px;
     background-color: #ededed;
     border: 1px solid lightgray;
-    margin: 0;
+    margin: 5px;
 }
 
 .floatleft {
@@ -33,6 +34,8 @@
   background-color: #cef2e0;
   border: 1px solid black;
   font-weight: bold;
+  font-size: 18px;
+  padding: 4px;
 }
 
 .right-column-box {
@@ -46,6 +49,8 @@
   background-color: #cedff2;
   border: 1px solid black;
   font-weight: bold;
+  font-size: 18px;
+  padding: 4px;
 }
 
 .featpic {
@@ -76,13 +81,15 @@
 
 .sidebar {
   float: left;
-  width: 15%;
+  width: 13%;
+  margin-top: 30px;
+  margin-right: 2%;
+  border-right: 1px solid lightblue;
 }
 
 .mainbody {
   display: inline-block;
   width: 85%;
-  border: 1px;
 }
 
 .container {
