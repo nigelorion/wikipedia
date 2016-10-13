@@ -1,0 +1,104 @@
+
+.top-right-nav {
+  padding-right: 22px;
+  padding-top: 10px;
+  font-size: 10pt;
+  float: right;
+}
+
+.header-box {
+    padding: 18px;
+    background-color: #ededed;
+    border: 1px solid lightgray;
+    margin: 0;
+}
+
+.floatleft {
+  float: left;
+
+}
+
+.floatright {
+
+}
+
+.left-column-box {
+  background-color: #f5fffa;
+  border: 1px solid green;
+  margin: 5px;
+  padding: 10px;
+}
+
+.left-column-header {
+  background-color: #cef2e0;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.right-column-box {
+  background-color: #f5faff;
+  margin: 5px;
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.right-column-header {
+  background-color: #cedff2;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.featpic {
+  background-color: #faf5ff;
+  border: 1px solid purple;
+  padding: 10px;
+}
+
+.feat-pic-header {
+  background-color: #ddcef2;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.section-title {
+    border-bottom: 1px solid black;
+}
+
+.left-image {
+  float: left;
+  margin: 10px;
+}
+
+.right-image {
+  float: right;
+  margin: 10px;
+}
+
+.sidebar {
+  float: left;
+  width: 15%;
+}
+
+.mainbody {
+  display: inline-block;
+  width: 85%;
+  border: 1px;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0px;
+}
+
+.col-md-5 {
+  padding: 0;
+}
+
+.col-md-7 {
+  padding: 0;
+}
